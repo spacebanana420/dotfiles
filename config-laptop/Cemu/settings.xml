@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+    <logflag>0</logflag>
+    <advanced_ppc_logging>false</advanced_ppc_logging>
+    <mlc_path></mlc_path>
+    <permanent_storage>true</permanent_storage>
+    <language>0</language>
+    <use_discord_presence>false</use_discord_presence>
+    <fullscreen_menubar>false</fullscreen_menubar>
+    <check_update>false</check_update>
+    <save_screenshot>true</save_screenshot>
+    <vk_warning>false</vk_warning>
+    <gp_download>true</gp_download>
+    <macos_disclaimer>false</macos_disclaimer>
+    <fullscreen>true</fullscreen>
+    <proxy_server></proxy_server>
+    <console_language>1</console_language>
+    <window_position>
+        <x>-1</x>
+        <y>-1</y>
+    </window_position>
+    <window_size>
+        <x>-1</x>
+        <y>-1</y>
+    </window_size>
+    <window_maximized>false</window_maximized>
+    <open_pad>false</open_pad>
+    <pad_position>
+        <x>-1</x>
+        <y>-1</y>
+    </pad_position>
+    <pad_size>
+        <x>-1</x>
+        <y>-1</y>
+    </pad_size>
+    <pad_maximized>false</pad_maximized>
+    <GameList>
+        <style>0</style>
+        <order></order>
+        <name_width>500</name_width>
+        <version_width>60</version_width>
+        <dlc_width>50</dlc_width>
+        <game_time_width>140</game_time_width>
+        <game_started_width>160</game_started_width>
+        <region_width>306</region_width>
+    </GameList>
+    <RecentLaunchFiles>
+        <Entry>/home/space/.local/share/Cemu/mlc01/usr/title/00050000/10101d00</Entry>
+        <Entry>/media/space/Junko/Games/Wii U/New SUPER MARIO BROS. U [ARPE01]</Entry>
+    </RecentLaunchFiles>
+    <RecentNFCFiles/>
+    <GamePaths>
+        <Entry>/media/space/Junko/Games/Wii U</Entry>
+        <Entry>/home/space/Games/Cemu</Entry>
+    </GamePaths>
+    <GameCache/>
+    <GraphicPack>
+        <Entry filename="graphicPacks/downloadedGraphicPacks/KirbyRainbow_InvisibleLineFix/rules.txt"/>
+        <Entry filename="graphicPacks/downloadedGraphicPacks/NewSuperMarioBrosU/Graphics/rules.txt">
+            <Preset>
+                <category>Blur Quality</category>
+                <preset>High</preset>
+            </Preset>
+            <Preset>
+                <category>Gamepad Resolution</category>
+                <preset>640x360</preset>
+            </Preset>
+            <Preset>
+                <category>Shadow Quality</category>
+                <preset>Medium</preset>
+            </Preset>
+            <Preset>
+                <category>TV Resolution</category>
+                <preset>1920x1080</preset>
+            </Preset>
+        </Entry>
+        <Entry filename="graphicPacks/downloadedGraphicPacks/NewSuperMarioBrosU/Workarounds/CrashFix/rules.txt"/>
+        <Entry filename="graphicPacks/downloadedGraphicPacks/SkylandersSwapForce/Workarounds/PortalStabilityFix/rules.txt"/>
+    </GraphicPack>
+    <Graphic>
+        <api>1</api>
+        <device>ff258cf44865a82be58f77bffa8e3040</device>
+        <VSync>1</VSync>
+        <GX2DrawdoneSync>true</GX2DrawdoneSync>
+        <UpscaleFilter>1</UpscaleFilter>
+        <DownscaleFilter>0</DownscaleFilter>
+        <FullscreenScaling>0</FullscreenScaling>
+        <AsyncCompile>true</AsyncCompile>
+        <vkAccurateBarriers>true</vkAccurateBarriers>
+        <Overlay>
+            <Position>1</Position>
+            <TextColor>4294967295</TextColor>
+            <TextScale>100</TextScale>
+            <FPS>true</FPS>
+            <DrawCalls>false</DrawCalls>
+            <CPUUsage>false</CPUUsage>
+            <CPUPerCoreUsage>false</CPUPerCoreUsage>
+            <RAMUsage>false</RAMUsage>
+            <VRAMUsage>false</VRAMUsage>
+            <Debug>false</Debug>
+        </Overlay>
+        <Notification>
+            <Position>1</Position>
+            <TextColor>4294967295</TextColor>
+            <TextScale>100</TextScale>
+            <ControllerProfiles>true</ControllerProfiles>
+            <ControllerBattery>false</ControllerBattery>
+            <ShaderCompiling>true</ShaderCompiling>
+            <FriendService>true</FriendService>
+        </Notification>
+    </Graphic>
+    <Audio>
+        <api>3</api>
+        <delay>0</delay>
+        <TVChannels>1</TVChannels>
+        <PadChannels>1</PadChannels>
+        <InputChannels>0</InputChannels>
+        <TVVolume>14</TVVolume>
+        <PadVolume>25</PadVolume>
+        <InputVolume>50</InputVolume>
+        <TVDevice>alsa_output.pci-0000_00_1f.3.analog-stereo</TVDevice>
+        <PadDevice></PadDevice>
+        <InputDevice></InputDevice>
+    </Audio>
+    <Account>
+        <PersistentId>2147483649</PersistentId>
+        <OnlineEnabled>false</OnlineEnabled>
+        <ActiveService>0</ActiveService>
+    </Account>
+    <Debug>
+        <CrashDumpUnix>0</CrashDumpUnix>
+    </Debug>
+    <Input>
+        <DSUC host="127.0.0.1" port="26760"/>
+    </Input>
+</content>
